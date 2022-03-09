@@ -1,0 +1,22 @@
+{
+  "collectionName": "components_variants_variants",
+  "info": {
+    "displayName": "variant",
+    "icon": "align-justify"
+  },
+  "options": {},
+  "attributes": {
+    "name": {
+      "type": "string"
+    },
+    "image": {
+      "allowedTypes": [
+        "images",
+        "files",
+        "videos"
+      ],
+      "type": "media",
+      "multiple": false
+    }
+  }
+}
